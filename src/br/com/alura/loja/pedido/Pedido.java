@@ -1,6 +1,5 @@
 package br.com.alura.loja.pedido;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 import br.com.alura.loja.orcamento.Orcamento;
